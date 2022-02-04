@@ -1,2 +1,2 @@
 # Tarot
-It is a helper for Tarot
+简单易懂的塔罗牌搜索网页！有了这个的话就不用一个一个去百度搜索解牌了！
