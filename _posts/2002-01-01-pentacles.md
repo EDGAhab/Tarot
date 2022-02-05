@@ -20,4 +20,5 @@ comments: false
 11. 星币侍者 Page of Wands	
 12. 星币骑士 Knight of Wands	
 13. 星币皇后 Queen of Wands	
-14. 星币国王 King of Wands 【正位】[【逆位】](/Tarot/2012-02/星币国王-爱情走势-逆位.html)
+14. 星币国王 King of Wands \
+【正位】[【逆位】](/Tarot/2012-02/星币国王-爱情走势-逆位.html)
