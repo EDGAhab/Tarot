@@ -18,6 +18,7 @@ comments: false
 9. 星币九 Nine of Wands	
 10. 星币十 Ten of Wands	
 11. 星币侍者 Page of Wands	
-12. 星币骑士 Knight of Wands	
+12. 星币骑士 Knight of Wands\
+[【正位】](/Tarot/2013-01/星币骑士-学业事业-正位.html)【逆位】	
 13. 星币皇后 Queen of Wands	
 14. 星币国王 King of Wands
