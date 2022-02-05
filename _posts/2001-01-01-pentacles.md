@@ -7,7 +7,8 @@ comments: false
 它与土元素有关，代表稳定性，实用性和慷慨。\
 对应于十二星座中的土象星座（摩羯座，金牛座和处女座）
 
-1. 星币王牌 Ace of Wands	
+1. 星币王牌 Ace of Wands\
+[【正位】](/Tarot/2011-01/星币王牌-牌面-正位.html)【逆位】
 2. 星币二 Two of Wands	
 3. 星币三 Three of Wands	
 4. 星币四 Four of Wands	
